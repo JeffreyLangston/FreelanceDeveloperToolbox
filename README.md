@@ -7,9 +7,17 @@ https://repl.it
 https://codepen.io/#  
 https://regex101.com/  
 
-Education
-https://www.freecodecamp.org/  
+Education  
+https://www.freecodecamp.org/    
+https://developer.mozilla.org/en-US/  
 
+Job Searches
+
+Resume writing
+
+Blogs
+
+Podcasts
 
 Practice
 
