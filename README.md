@@ -11,6 +11,18 @@ Education
 https://www.freecodecamp.org/    
 https://developer.mozilla.org/en-US/  
 
+Practice  
+https://www.codewars.com/  
+https://codecombat.com/  
+https://www.codecademy.com/  
+
+
+Coding for kids  
+https://code.org/  
+
+Forums  
+https://stackoverflow.com/  
+
 Job Searches
 
 Resume writing
@@ -18,8 +30,6 @@ Resume writing
 Blogs
 
 Podcasts
-
-Practice
 
 Hosting
 
