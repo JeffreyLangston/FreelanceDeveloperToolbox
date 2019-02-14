@@ -7,3 +7,16 @@ https://repl.it
 https://codepen.io/#  
 https://regex101.com/  
 
+Education
+https://www.freecodecamp.org/  
+
+
+Practice
+
+Hosting
+
+Unit Testing
+
+Integration Testing
+
+Load Testing
