@@ -50,6 +50,12 @@ http://snapsvg.io/
 https://medium.com/@LewisMenelaws/how-to-create-beautiful-svg-animations-easily-610eb2690ac3  
 https://www.svgator.com/  
 https://airbnb.design/lottie/  
+https://medium.com/@aniboaz/animate-svg-4fa7dd00e860  
+https://svgontheweb.com/  
+https://jakearchibald.github.io/svgomg/  
+
+SVG Examples
+https://www.hongkiat.com/blog/svg-animations/  
 
 
 CSS Frameworks
