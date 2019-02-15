@@ -41,7 +41,15 @@ Load Testing
 
 Frontend Frameworks
 
+CSS
+
+CSS Animation
+
+SVG Animation
+
 CSS Frameworks
+
+
 
 CSS examples
 
