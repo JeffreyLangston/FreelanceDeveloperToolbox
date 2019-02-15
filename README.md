@@ -45,7 +45,12 @@ CSS
 
 CSS Animation
 
-SVG Animation
+SVG Animation  
+http://snapsvg.io/  
+https://medium.com/@LewisMenelaws/how-to-create-beautiful-svg-animations-easily-610eb2690ac3  
+https://www.svgator.com/  
+https://airbnb.design/lottie/  
+
 
 CSS Frameworks
 
