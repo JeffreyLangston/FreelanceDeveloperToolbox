@@ -68,7 +68,8 @@ Stock Images
 
 Icons
 
-Fonts
+Fonts  
+* [Google Fonts](https://fonts.google.com/) —  
 
 Website Inspiration  
 
