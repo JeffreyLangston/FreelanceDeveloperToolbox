@@ -53,6 +53,15 @@ Fonts
 
 Website Inspiration  
 
+Wireframing
+
+User Flow
+
+Prototyping
+
+UI Design
+
+
 Completly offtopic  
 https://www.reddit.com/  
 
