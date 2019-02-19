@@ -75,6 +75,9 @@ CSS examples
 
 Stock Images
 
+Vector Images
+https://www.humaaans.com/  
+
 Icons
 
 ### Fonts  
