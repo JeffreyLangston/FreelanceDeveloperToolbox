@@ -41,6 +41,7 @@ Blogs
 Podcasts
 
 Hosting
+https://www.digitalocean.com  
 
 SSL:
 https://letsencrypt.org/  
