@@ -78,7 +78,7 @@ Stock Images
 Vector Images
 https://www.humaaans.com/  
 https://www.freepik.com/free-vectors/illustrations  
-
+https://interfacer.xyz/  
 
 Icons
 
@@ -86,12 +86,17 @@ Icons
 * [Google Fonts](https://fonts.google.com/) —  
 
 Website Inspiration  
+https://landub.com/  
+
 
 Wireframing
 
 User Flow
 
 Prototyping
+
+Mockups  
+https://interfacer.xyz/  
 
 UI Design
 
