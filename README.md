@@ -89,6 +89,10 @@ https://www.humaaans.com/
 https://www.freepik.com/free-vectors/illustrations  
 https://interfacer.xyz/  
 
+Logo design
+http://www.logobook.com/  
+
+
 Icons
 
 ### Fonts  
@@ -101,6 +105,9 @@ https://landub.com/
 Wireframing
 
 User Flow
+https://www.draw.io/  
+https://docs.google.com/drawings/  
+https://overflow.io/  
 
 Prototyping
 
