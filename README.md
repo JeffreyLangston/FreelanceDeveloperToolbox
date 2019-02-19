@@ -109,6 +109,10 @@ https://interfacer.xyz/
 
 UI Design
 
+Business
+
+EQ  
+https://people.neilon.software/
 
 Completly offtopic  
 https://www.reddit.com/  
