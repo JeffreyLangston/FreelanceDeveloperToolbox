@@ -77,6 +77,8 @@ Stock Images
 
 Vector Images
 https://www.humaaans.com/  
+https://www.freepik.com/free-vectors/illustrations  
+
 
 Icons
 
