@@ -9,6 +9,13 @@ https://repl.it
 https://codepen.io/#  
 https://regex101.com/  
 
+Software  
+https://www.scootersoftware.com/    
+https://www.teamviewer.com/en/  
+https://slack.com/  
+https://discordapp.com/  
+
+
 Education  
 https://www.freecodecamp.org/    
 https://developer.mozilla.org/en-US/  
