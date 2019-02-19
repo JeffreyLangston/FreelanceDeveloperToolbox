@@ -28,7 +28,8 @@ https://www.codewars.com/
 https://codecombat.com/  
 https://www.codecademy.com/  
 https://leetcode.com/  
-
+https://www.hackerrank.com/  
+https://edabit.com/  
 
 Coding for kids  
 https://code.org/  
