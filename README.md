@@ -20,6 +20,9 @@ Education
 https://www.freecodecamp.org/    
 https://developer.mozilla.org/en-US/  
 
+Javascript  
+https://github.com/leonardomso/33-js-concepts
+
 Practice  
 https://www.codewars.com/  
 https://codecombat.com/  
