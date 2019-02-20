@@ -17,6 +17,7 @@ https://discordapp.com/
 
 
 Education  
+https://github.com/adam-golab/react-developer-roadmap
 https://www.freecodecamp.org/    
 https://developer.mozilla.org/en-US/  
 
@@ -88,6 +89,7 @@ Vector Images
 https://www.humaaans.com/  
 https://www.freepik.com/free-vectors/illustrations  
 https://interfacer.xyz/  
+https://www.vectorlogo.zone/  
 
 Logo design
 http://www.logobook.com/  
@@ -113,6 +115,7 @@ Prototyping
 
 Mockups  
 https://interfacer.xyz/  
+https://psdjunction.com/  
 
 UI Design
 
