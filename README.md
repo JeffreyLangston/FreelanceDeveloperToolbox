@@ -1,7 +1,7 @@
-<img src="https://source.unsplash.com/WLUHO9A_xik/1600x900">
+<img src="https://source.unsplash.com/WLUHO9A_xik/1600x900">  
 
-# DevelopmentResources
-A list of tools and sites for software development. These are tools I use with a focus on Web Development.
+# DevelopmentResources  
+A list of tools and sites for software development. These are tools I use with a focus on Web Development.  
 
 IDEs Repls & editors  
 https://code.visualstudio.com/  
@@ -23,7 +23,7 @@ https://www.freecodecamp.org/
 https://developer.mozilla.org/en-US/  
 
 Javascript  
-https://github.com/leonardomso/33-js-concepts
+https://github.com/leonardomso/33-js-concepts  
 
 Practice  
 https://www.codewars.com/  
@@ -39,31 +39,31 @@ https://code.org/
 Forums  
 https://stackoverflow.com/  
 
-Job Searches
+Job Searches  
 
-Resume writing
+Resume writing  
 
-Blogs
+Blogs  
 
-Podcasts
+Podcasts  
 
-Hosting
+Hosting  
 https://www.digitalocean.com  
 
-SSL:
+SSL:  
 https://letsencrypt.org/  
 
-Unit Testing
+Unit Testing  
 
-Integration Testing
+Integration Testing  
 
-Load Testing
+Load Testing  
 
-Frontend Frameworks
+Frontend Frameworks  
 
-CSS
+CSS  
 
-CSS Animation
+CSS Animation  
 
 SVG Animation  
 http://snapsvg.io/  
@@ -74,29 +74,29 @@ https://medium.com/@aniboaz/animate-svg-4fa7dd00e860
 https://svgontheweb.com/  
 https://jakearchibald.github.io/svgomg/  
 
-SVG Examples
+SVG Examples  
 https://www.hongkiat.com/blog/svg-animations/  
 
 
-CSS Frameworks
+CSS Frameworks  
 
 
 
-CSS examples
+CSS examples  
 
-Stock Images
+Stock Images  
 
-Vector Images
+Vector Images  
 https://www.humaaans.com/  
 https://www.freepik.com/free-vectors/illustrations  
 https://interfacer.xyz/  
 https://www.vectorlogo.zone/  
 
-Logo design
+Logo design  
 http://www.logobook.com/  
 
 
-Icons
+Icons  
 
 ### Fonts  
 * [Google Fonts](https://fonts.google.com/) —  
@@ -105,25 +105,25 @@ Website Inspiration
 https://landub.com/  
 
 
-Wireframing
+Wireframing  
 
-User Flow
+User Flow  
 https://www.draw.io/  
 https://docs.google.com/drawings/  
 https://overflow.io/  
 
-Prototyping
+Prototyping  
 
 Mockups  
 https://interfacer.xyz/  
 https://psdjunction.com/  
 
-UI Design
+UI Design  
 
-Business
+Business  
 
 EQ  
-https://people.neilon.software/
+https://people.neilon.software/  
 
 Completly offtopic  
 https://www.reddit.com/  
