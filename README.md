@@ -1,7 +1,9 @@
+<p align="center">
 <img style="  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;" src="https://github.com/JeffreyLangston/FreelanceDeveloperToolbox/blob/master/toolbox.png">
+</p>
 
 # DevelopmentResources  
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.  
