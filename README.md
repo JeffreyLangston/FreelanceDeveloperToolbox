@@ -1,6 +1,6 @@
 <img src="https://source.unsplash.com/WLUHO9A_xik/1600x900">  
-
-<canvas
+<img src="https://github.com/JeffreyLangston/FreelanceDeveloperToolbox/blob/master/toolbox.png">
+<canvas/>
 # DevelopmentResources  
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.  
 
