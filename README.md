@@ -1,4 +1,3 @@
-<img src="https://source.unsplash.com/WLUHO9A_xik/1600x900">  
 <img src="https://github.com/JeffreyLangston/FreelanceDeveloperToolbox/blob/master/toolbox.png">
 
 # DevelopmentResources  
