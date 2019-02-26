@@ -57,6 +57,14 @@ https://realtimeboard.com/
 https://www.canvasflip.com/visual-inspector/  
 https://witeboard.com  
 
+# Feedback
+https://flawlessapp.io/feedback  
+https://avocode.com/  
+https://zeplin.io/  
+http://utom.design/measure/  
+https://www.invisionapp.com  
+https://specctr.com/cloud/home  
+
 # Testing  
 
 # Miscellaneous  
