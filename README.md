@@ -10,8 +10,34 @@
 
 # Design
 
+## Color
+
+
+
+## Accessibility
+http://pa11y.org/
+http://www.colorbox.io/
+https://hexnaw.com/
+https://michelf.ca/projects/sim-daltonism/
+https://usecontrast.com/
+https://contrasteapp.com/
+
+## Animation
+https://www.haiku.ai/
+https://www.adobe.com/ca/products/aftereffects.html
+https://kiteapp.co/
+https://uselightbox.com/
+https://airbnb.io/lottie/
+https://spiritapp.io/
+https://tumult.com/hype/
+
+
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.  
+
+# Collaboration
+https://material.io/tools/gallery/
+https://www.invisionapp.com/feature/freehand
 
 # Testing
 
