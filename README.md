@@ -12,7 +12,14 @@
 
 ## Color
 https://color.adobe.com  
-
+https://chroma.spencerhamm.com/  
+http://casesandberg.github.io/react-color/  
+http://khroma.co/  
+https://swatchesapp.io/  
+https://paletton.com  
+https://sipapp.io/  
+https://colourco.de/  
+https://uigradients.com  
 
 
 ## Accessibility
