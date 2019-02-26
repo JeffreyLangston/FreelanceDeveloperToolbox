@@ -74,7 +74,9 @@ https://airbnb.io/lottie/
 https://spiritapp.io/  
 https://tumult.com/hype/  
 
-# Experience Analysis
+# Analytics
+
+## Experience Analysis
 https://amplitude.com/  
 https://heapanalytics.com/  
 https://www.fullstory.com/  
@@ -84,6 +86,8 @@ https://analytics.google.com/analytics/web/provision/?authuser=0#/provision
 https://www.pendo.io/  
 https://www.inspectlet.com/  
 https://www.hotjar.com/  
+
+
 
 ## Wireframes
 https://balsamiq.com/  
@@ -108,11 +112,14 @@ https://maze.design/
 https://www.axure.com/  
 https://proto.io/  
 https://meetalva.io/  
-
+https://www.figma.com/files/recent  
 
 
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
+
+## Version Control
+
 
 # Project Management
 https://trello.com/  
@@ -261,10 +268,25 @@ https://interfacer.xyz/
 https://www.vectorlogo.zone/  
 https://www.vectorstock.com/royalty-free-vectors  
 https://www.freepik.com/free-photos-vectors/royalty-free  
-http://www.thinkstockphotos.ca/royalty-free/illustrations-pictures
+http://www.thinkstockphotos.ca/royalty-free/illustrations-pictures  
+https://www.stockio.com/free-vectors/  
+https://www.123freevectors.com/  
+https://www.vexels.com/  
+https://www.brandeps.com/  
+https://www.flaticon.com/  
+https://dryicons.com/  
+
+
 
 Logo design  
 http://www.logobook.com/  
+
+# Graphic Design
+https://inkscape.org/  
+https://vectr.com/  
+https://www.photopea.com/  
+https://designer.io/  
+https://www.gimp.org/  
 
 
 Icons  
@@ -284,6 +306,7 @@ https://docs.google.com/drawings/
 https://overflow.io/  
 
 Prototyping  
+https://www.sketchapp.com/  
 
 Mockups  
 https://interfacer.xyz/  
