@@ -241,13 +241,27 @@ CSS examples
 
 
 ## Stock Images  
+http://www.zoommyapp.com/  
+https://pixabay.com/  
+https://pxhere.com/  
+https://freephotos.cc/  
+https://burst.shopify.com/  
+https://sneakpeekit.com/  
+https://www.pexels.com/  
+https://unsplash.com/  
+https://www.flickr.com/photos/wocintechchat  
+https://sketchsheets.com/  
 
+#
 
 Vector Images  
 https://www.humaaans.com/  
 https://www.freepik.com/free-vectors/illustrations  
 https://interfacer.xyz/  
 https://www.vectorlogo.zone/  
+https://www.vectorstock.com/royalty-free-vectors  
+https://www.freepik.com/free-photos-vectors/royalty-free  
+http://www.thinkstockphotos.ca/royalty-free/illustrations-pictures
 
 Logo design  
 http://www.logobook.com/  
