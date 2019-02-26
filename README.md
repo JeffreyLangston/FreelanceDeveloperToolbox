@@ -10,6 +10,10 @@
 
 # Design
 
+##  Brand
+https://www.lingoapp.com/  
+https://lucid.style/  
+
 ## Color
 https://color.adobe.com  
 https://chroma.spencerhamm.com/  
