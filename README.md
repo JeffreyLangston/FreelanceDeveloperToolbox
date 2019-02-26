@@ -14,6 +14,27 @@
 
 # Design
 
+# Design Version Control  
+https://www.goabstract.com/  
+http://folioformac.com/  
+https://kactus.io/  
+https://plantapp.io/  
+https://versions.sympli.io/  
+
+
+## Diagrams
+https://www.yworks.com/products/yed  
+https://mindnode.com/  
+https://overflow.io/  
+https://sketch.systems/  
+https://whimsical.co/  
+https://www.lucidchart.com/  
+https://docs.google.com/drawings  
+https://flowmapp.com/  
+https://www.draw.io/  
+
+
+
 ## Website Inpiration
 https://tilda.cc/  
 https://webflow.com/  
