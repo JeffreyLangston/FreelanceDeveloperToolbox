@@ -13,6 +13,10 @@
 ##  Brand
 https://www.lingoapp.com/  
 https://lucid.style/  
+https://brand.ai/  
+https://frontify.com/  
+https://www.zeroheight.com/  
+https://www.invisionapp.com/design-system-manager/  
 
 ## Color
 https://color.adobe.com  
