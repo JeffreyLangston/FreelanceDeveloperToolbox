@@ -11,37 +11,48 @@
 # Design
 
 ## Color
+https://color.adobe.com  
 
 
 
 ## Accessibility
-http://pa11y.org/
-http://www.colorbox.io/
-https://hexnaw.com/
-https://michelf.ca/projects/sim-daltonism/
-https://usecontrast.com/
-https://contrasteapp.com/
+http://pa11y.org/  
+http://www.colorbox.io/  
+https://hexnaw.com/  
+https://michelf.ca/projects/sim-daltonism/  
+https://usecontrast.com/  
+https://contrasteapp.com/  
 
 ## Animation
-https://www.haiku.ai/
-https://www.adobe.com/ca/products/aftereffects.html
-https://kiteapp.co/
-https://uselightbox.com/
-https://airbnb.io/lottie/
-https://spiritapp.io/
-https://tumult.com/hype/
+https://www.haiku.ai/  
+https://www.adobe.com/ca/products/aftereffects.html  
+https://kiteapp.co/  
+https://uselightbox.com/  
+https://airbnb.io/lottie/  
+https://spiritapp.io/  
+https://tumult.com/hype/  
 
 
 # Development
-A list of tools and sites for software development. These are tools I use with a focus on Web Development.  
+A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
 
-# Collaboration
-https://material.io/tools/gallery/
-https://www.invisionapp.com/feature/freehand
+# Project Management
+https://trello.com/  
+https://www.wrike.com  
 
-# Testing
 
-# Miscellaneous 
+# Collaboration  
+https://material.io/tools/gallery/  
+https://www.invisionapp.com/feature/freehand  
+https://mural.co/  
+https://www.notion.so/  
+https://realtimeboard.com/  
+https://www.canvasflip.com/visual-inspector/  
+https://witeboard.com  
+
+# Testing  
+
+# Miscellaneous  
 
 
 Sandbox
