@@ -10,6 +10,11 @@
 
 # Design
 
+## Website Inpiration
+https://tilda.cc/  
+https://webflow.com/  
+
+
 ##  Brand
 https://www.lingoapp.com/  
 https://lucid.style/  
@@ -29,6 +34,25 @@ https://sipapp.io/
 https://colourco.de/  
 https://uigradients.com  
 
+## Font  
+https://fonts.google.com/  
+https://fontspark.app/  
+https://fontpair.co/  
+https://google-webfonts-helper.herokuapp.com/fonts  
+https://rightfontapp.com/  
+https://webfontapp.com/  
+https://fontba.se/  
+https://fontface.ninja/  
+http://sansforgetica.rmit/  
+
+## Icons
+https://www.iconfinder.com/  
+https://geticonjar.com/  
+https://nucleoapp.com/  
+http://www.svgs.us/  
+http://fontello.com/  
+https://fontawesome.com/  
+https://thenounproject.com/  
 
 ## Accessibility
 http://pa11y.org/  
@@ -47,6 +71,17 @@ https://airbnb.io/lottie/
 https://spiritapp.io/  
 https://tumult.com/hype/  
 
+# Experience Analysis
+https://amplitude.com/  
+https://heapanalytics.com/  
+https://www.fullstory.com/  
+https://mixpanel.com/  
+https://usefathom.com/  
+https://analytics.google.com/analytics/web/provision/?authuser=0#/provision  
+https://www.pendo.io/  
+https://www.inspectlet.com/  
+https://www.hotjar.com/  
+
 
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
@@ -64,6 +99,21 @@ https://www.notion.so/
 https://realtimeboard.com/  
 https://www.canvasflip.com/visual-inspector/  
 https://witeboard.com  
+
+## Screensharing
+https://www.screentogif.com/  
+http://snappy-app.com/  
+https://teampaper.me/snap/  
+https://getgreenshot.org/  
+https://giphy.com/apps/giphycapture  
+https://getkap.co/  
+https://itunes.apple.com/us/app/lightshot-screenshot/id526298438  
+https://www.thnkdev.com/Screenie/  
+https://www.getcloudapp.com/  
+
+## Illustrations
+https://undraw.co/illustrations  
+
 
 # Feedback
 https://flawlessapp.io/feedback  
