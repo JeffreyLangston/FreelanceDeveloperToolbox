@@ -20,6 +20,10 @@ https://www.wrike.com
 
 # Client Relations
 
+## Client Feedback
+https://www.getdiff.app  
+
+
 ## Social Skills  
 https://people.neilon.software/  
 
@@ -62,10 +66,16 @@ https://design-conferences-2019.com
 https://learnmobile.design  
 https://www.designdots.co  
 https://medium.com/sketch-app-sources/crash-course-in-prototyping-with-principle-for-web-and-ux-ui-designers-workshop-1-2-6c44c4b3a98d? 
+https://github.com/lukejones/designchallenge/tree/site_archive  
 
 ## Books
 https://uxtricks.design/products/invision-studio-book/
 https://uxtricks.design  
+https://lawsofux.com  
+
+## UX Portfolio
+https://www.uxfol.io  
+
 
 ## Courses
 https://www.meaningfulmotionui.com
@@ -77,6 +87,7 @@ http://diagrammm.com
 https://tilda.cc/  
 https://webflow.com/  
 https://cruip.com  
+https://www.invisionapp.com
 
 ## Mobile Inspiration
 https://www.mobile-patterns.com  
@@ -143,8 +154,6 @@ https://docs.google.com/drawings
 https://flowmapp.com/  
 https://www.draw.io/  
 
-
-
 ##  Brand
 https://www.lingoapp.com/  
 https://lucid.style/  
@@ -157,7 +166,6 @@ https://www.invisionapp.com/design-system-manager/
 http://www.logobook.com/  
 https://mybrandnewlogo.com  
 https://www.logoshuffle.com  
-
 
 ## Stock Images  
 https://photos.icons8.com  
@@ -181,6 +189,8 @@ https://icons8.com/ouch
 
 ## Stock Videos
 https://mixkit.co/  
+https://coverr.co  
+
 
 ## Vector Images  
 https://www.humaaans.com/  
@@ -267,6 +277,8 @@ https://analytics.google.com/analytics/web/provision/?authuser=0#/provision
 https://www.pendo.io/  
 https://www.inspectlet.com/  
 https://www.hotjar.com/  
+https://userback.io  
+
 
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
