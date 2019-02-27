@@ -209,6 +209,7 @@ https://sipapp.io/
 https://colourco.de/  
 https://uigradients.com  
 https://www.ls.graphics/meshgradients  
+https://gradienthunt.com  
 
 
 ## Font  
@@ -233,6 +234,8 @@ https://fontawesome.com/
 https://thenounproject.com/  
 https://www.xicons.co  
 https://roundicons.com  
+https://streamlineicons.com/  
+
 
 ## Accessibility
 http://pa11y.org/  
