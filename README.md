@@ -17,6 +17,9 @@ https://www.wrike.com
 
 # Client Relations
 
+## Social Skills  
+https://people.neilon.software/  
+
 # Collaboration  
 https://material.io/tools/gallery/  
 https://www.invisionapp.com/feature/freehand  
@@ -258,7 +261,7 @@ https://getcssscan.com
 
 ## CSS Animation  
 
-SVG Animation  
+## SVG Animation  
 http://snapsvg.io/  
 https://medium.com/@LewisMenelaws/how-to-create-beautiful-svg-animations-easily-610eb2690ac3  
 https://www.svgator.com/  
@@ -312,15 +315,7 @@ https://www.digitalocean.com
 https://letsencrypt.org/  
 
 
-
-
-
-Business  
-
-EQ  
-https://people.neilon.software/  
-
-Completly offtopic  
+## Completly offtopic  
 https://www.reddit.com/  
 
 <div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
