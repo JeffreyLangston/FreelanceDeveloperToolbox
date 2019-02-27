@@ -14,6 +14,10 @@
 
 # Design
 
+## Design Information, news and blogs
+https://prototypr.io  
+
+
 # Design Version Control  
 https://www.goabstract.com/  
 http://folioformac.com/  
@@ -69,6 +73,7 @@ https://webfontapp.com/
 https://fontba.se/  
 https://fontface.ninja/  
 http://sansforgetica.rmit/  
+
 
 ## Icons
 https://www.iconfinder.com/  
@@ -143,9 +148,35 @@ A list of tools and sites for software development. These are tools I use with a
 ## Version Control
 
 
+Frontend Frameworks  
+
+CSS  
+
+CSS Animation  
+
+SVG Animation  
+http://snapsvg.io/  
+https://medium.com/@LewisMenelaws/how-to-create-beautiful-svg-animations-easily-610eb2690ac3  
+https://www.svgator.com/  
+https://airbnb.design/lottie/  
+https://medium.com/@aniboaz/animate-svg-4fa7dd00e860  
+https://svgontheweb.com/  
+https://jakearchibald.github.io/svgomg/  
+
+SVG Examples  
+https://www.hongkiat.com/blog/svg-animations/  
+
+
+CSS   
+https://evie.undraw.co  
+https://getcssscan.com
+
+CSS examples  
+
 # Project Management
 https://trello.com/  
 https://www.wrike.com  
+
 
 
 # Collaboration  
@@ -241,30 +272,6 @@ Integration Testing
 
 Load Testing  
 
-Frontend Frameworks  
-
-CSS  
-
-CSS Animation  
-
-SVG Animation  
-http://snapsvg.io/  
-https://medium.com/@LewisMenelaws/how-to-create-beautiful-svg-animations-easily-610eb2690ac3  
-https://www.svgator.com/  
-https://airbnb.design/lottie/  
-https://medium.com/@aniboaz/animate-svg-4fa7dd00e860  
-https://svgontheweb.com/  
-https://jakearchibald.github.io/svgomg/  
-
-SVG Examples  
-https://www.hongkiat.com/blog/svg-animations/  
-
-
-CSS Frameworks  
-
-
-
-CSS examples  
 
 # Assets
 
@@ -312,9 +319,6 @@ https://www.gimp.org/
 
 
 Icons  
-
-### Fonts  
-* [Google Fonts](https://fonts.google.com/) —  
 
 Website Inspiration  
 https://landub.com/  
