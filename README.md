@@ -10,6 +10,9 @@
 
 ## Freelancing information, news and blogs
 https://freelancing.stackexchange.com/  
+https://community.prototypr.io  
+https://uirecipes.com  
+https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide  
 
 # Project Management
 https://trello.com/  
@@ -58,17 +61,26 @@ https://marvelapp.com/workshops
 https://design-conferences-2019.com
 https://learnmobile.design  
 https://www.designdots.co  
+https://medium.com/sketch-app-sources/crash-course-in-prototyping-with-principle-for-web-and-ux-ui-designers-workshop-1-2-6c44c4b3a98d? 
 
 ## Books
 https://uxtricks.design/products/invision-studio-book/
+https://uxtricks.design  
 
+## Courses
+https://www.meaningfulmotionui.com
+https://learnux.io/course/invision-studio  
 
 ## Website Inspiration  
 https://landub.com/  
 http://diagrammm.com  
+https://tilda.cc/  
+https://webflow.com/  
+https://cruip.com  
 
 ## Mobile Inspiration
 https://www.mobile-patterns.com  
+https://www.uisources.com/  
 
 
 ## User Flow  
@@ -131,9 +143,7 @@ https://docs.google.com/drawings
 https://flowmapp.com/  
 https://www.draw.io/  
 
-## Website Inpiration
-https://tilda.cc/  
-https://webflow.com/  
+
 
 ##  Brand
 https://www.lingoapp.com/  
@@ -186,6 +196,7 @@ https://www.vexels.com/
 https://www.brandeps.com/  
 https://www.flaticon.com/  
 https://dryicons.com/  
+https://www.isometriclove.com/  
 
 ## Color
 https://color.adobe.com  
@@ -197,6 +208,8 @@ https://paletton.com
 https://sipapp.io/  
 https://colourco.de/  
 https://uigradients.com  
+https://www.ls.graphics/meshgradients  
+
 
 ## Font  
 https://fonts.google.com/  
@@ -208,6 +221,7 @@ https://webfontapp.com/
 https://fontba.se/  
 https://fontface.ninja/  
 http://sansforgetica.rmit/  
+https://betterwebtype.com/web-typography-resources  
 
 ## Icons
 https://www.iconfinder.com/  
