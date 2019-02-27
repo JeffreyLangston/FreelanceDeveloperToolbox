@@ -40,7 +40,6 @@ https://itunes.apple.com/us/app/lightshot-screenshot/id526298438
 https://www.thnkdev.com/Screenie/  
 https://www.getcloudapp.com/  
 
-
 # Feedback
 https://flawlessapp.io/feedback  
 https://avocode.com/  
@@ -55,9 +54,22 @@ https://specctr.com/cloud/home
 
 ## Design Information, news and blogs
 https://prototypr.io  
+https://marvelapp.com/workshops  
+https://design-conferences-2019.com
+https://learnmobile.design  
+https://www.designdots.co  
+
+## Books
+https://uxtricks.design/products/invision-studio-book/
+
 
 ## Website Inspiration  
 https://landub.com/  
+http://diagrammm.com  
+
+## Mobile Inspiration
+https://www.mobile-patterns.com  
+
 
 ## User Flow  
 https://www.draw.io/  
@@ -84,6 +96,7 @@ https://interfacer.xyz/
 https://psdjunction.com/  
 
 ## Prototypes
+https://designcode.io/principle  
 https://www.uxpin.com/  
 https://marvelapp.com/  
 https://www.invisionapp.com/  
@@ -99,13 +112,13 @@ https://meetalva.io/
 https://www.figma.com/files/recent  
 https://www.sketchapp.com/  
 
-## Design Version Control  
+## Design Version Control and Design Systems
 https://www.goabstract.com/  
 http://folioformac.com/  
 https://kactus.io/  
 https://plantapp.io/  
 https://versions.sympli.io/  
-
+https://zeroheight.com/v3  
 
 ## Diagrams
 https://www.yworks.com/products/yed  
@@ -132,9 +145,12 @@ https://www.invisionapp.com/design-system-manager/
 
 ## Logo design  
 http://www.logobook.com/  
+https://mybrandnewlogo.com  
+https://www.logoshuffle.com  
 
 
 ## Stock Images  
+https://photos.icons8.com  
 http://www.zoommyapp.com/  
 https://pixabay.com/  
 https://pxhere.com/  
@@ -145,6 +161,16 @@ https://www.pexels.com/
 https://unsplash.com/  
 https://www.flickr.com/photos/wocintechchat  
 https://sketchsheets.com/  
+https://ccsearch.creativecommons.org  
+https://mixkit.co/  
+https://icons8.com/  
+
+## Stock Illusatrations
+https://icons8.com/ouch  
+
+
+## Stock Videos
+https://mixkit.co/  
 
 ## Vector Images  
 https://www.humaaans.com/  
@@ -191,6 +217,8 @@ http://www.svgs.us/
 http://fontello.com/  
 https://fontawesome.com/  
 https://thenounproject.com/  
+https://www.xicons.co  
+https://roundicons.com  
 
 ## Accessibility
 http://pa11y.org/  
@@ -260,6 +288,7 @@ https://edabit.com/
 https://evie.undraw.co  
 https://getcssscan.com  
 https://www.froala.com/design-blocks  
+https://css-grid-layout-generator.pw  
 
 ## CSS Animation  
 
