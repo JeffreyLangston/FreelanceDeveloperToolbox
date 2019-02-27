@@ -8,7 +8,43 @@
 
 # Business Development  
 
+## Freelancing information, news and blogs
+https://freelancing.stackexchange.com/  
+
+# Project Management
+https://trello.com/  
+https://www.wrike.com  
+
 # Client Relations
+
+# Collaboration  
+https://material.io/tools/gallery/  
+https://www.invisionapp.com/feature/freehand  
+https://mural.co/  
+https://www.notion.so/  
+https://realtimeboard.com/  
+https://www.canvasflip.com/visual-inspector/  
+https://witeboard.com  
+
+## Screensharing
+https://www.screentogif.com/  
+http://snappy-app.com/  
+https://teampaper.me/snap/  
+https://getgreenshot.org/  
+https://giphy.com/apps/giphycapture  
+https://getkap.co/  
+https://itunes.apple.com/us/app/lightshot-screenshot/id526298438  
+https://www.thnkdev.com/Screenie/  
+https://www.getcloudapp.com/  
+
+
+# Feedback
+https://flawlessapp.io/feedback  
+https://avocode.com/  
+https://zeplin.io/  
+http://utom.design/measure/  
+https://www.invisionapp.com  
+https://specctr.com/cloud/home  
 
 # Marketing
 
@@ -17,8 +53,50 @@
 ## Design Information, news and blogs
 https://prototypr.io  
 
+Website Inspiration  
+https://landub.com/  
 
-# Design Version Control  
+## User Flow  
+https://www.draw.io/  
+https://docs.google.com/drawings/  
+https://overflow.io/  
+
+## Wireframes
+https://balsamiq.com/  
+
+# Graphic Design
+https://inkscape.org/  
+https://vectr.com/  
+https://www.photopea.com/  
+https://designer.io/  
+https://www.gimp.org/  
+
+## Mockups
+https://cleanmock.com/  
+https://www.screely.com/  
+https://www.screenspace.io/  
+https://smartmockups.com/  
+https://mouseflow.com/  
+https://interfacer.xyz/  
+https://psdjunction.com/  
+
+## Prototypes
+https://www.uxpin.com/  
+https://marvelapp.com/  
+https://www.invisionapp.com/  
+https://www.flinto.com/  
+https://www.protopie.io/  
+https://www.framer.com/  
+https://creolabs.com/  
+https://principleformac.com/  
+https://maze.design/  
+https://www.axure.com/  
+https://proto.io/  
+https://meetalva.io/  
+https://www.figma.com/files/recent  
+https://www.sketchapp.com/  
+
+## Design Version Control  
 https://www.goabstract.com/  
 http://folioformac.com/  
 https://kactus.io/  
@@ -37,12 +115,9 @@ https://docs.google.com/drawings
 https://flowmapp.com/  
 https://www.draw.io/  
 
-
-
 ## Website Inpiration
 https://tilda.cc/  
 https://webflow.com/  
-
 
 ##  Brand
 https://www.lingoapp.com/  
@@ -51,6 +126,37 @@ https://brand.ai/
 https://frontify.com/  
 https://www.zeroheight.com/  
 https://www.invisionapp.com/design-system-manager/  
+
+## Logo design  
+http://www.logobook.com/  
+
+
+## Stock Images  
+http://www.zoommyapp.com/  
+https://pixabay.com/  
+https://pxhere.com/  
+https://freephotos.cc/  
+https://burst.shopify.com/  
+https://sneakpeekit.com/  
+https://www.pexels.com/  
+https://unsplash.com/  
+https://www.flickr.com/photos/wocintechchat  
+https://sketchsheets.com/  
+
+## Vector Images  
+https://www.humaaans.com/  
+https://www.freepik.com/free-vectors/illustrations  
+https://interfacer.xyz/  
+https://www.vectorlogo.zone/  
+https://www.vectorstock.com/royalty-free-vectors  
+https://www.freepik.com/free-photos-vectors/royalty-free  
+http://www.thinkstockphotos.ca/royalty-free/illustrations-pictures  
+https://www.stockio.com/free-vectors/  
+https://www.123freevectors.com/  
+https://www.vexels.com/  
+https://www.brandeps.com/  
+https://www.flaticon.com/  
+https://dryicons.com/  
 
 ## Color
 https://color.adobe.com  
@@ -73,7 +179,6 @@ https://webfontapp.com/
 https://fontba.se/  
 https://fontface.ninja/  
 http://sansforgetica.rmit/  
-
 
 ## Icons
 https://www.iconfinder.com/  
@@ -114,45 +219,44 @@ https://www.pendo.io/
 https://www.inspectlet.com/  
 https://www.hotjar.com/  
 
-
-
-## Wireframes
-https://balsamiq.com/  
-
-## Mockups
-https://cleanmock.com/  
-https://www.screely.com/  
-https://www.screenspace.io/  
-https://smartmockups.com/  
-https://mouseflow.com/  
-
-## Prototypes
-https://www.uxpin.com/  
-https://marvelapp.com/  
-https://www.invisionapp.com/  
-https://www.flinto.com/  
-https://www.protopie.io/  
-https://www.framer.com/  
-https://creolabs.com/  
-https://principleformac.com/  
-https://maze.design/  
-https://www.axure.com/  
-https://proto.io/  
-https://meetalva.io/  
-https://www.figma.com/files/recent  
-
-
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
 
+## Sandbox
+https://code.visualstudio.com/  
+https://repl.it  
+https://codepen.io/#  
+https://regex101.com/  
+
+
+## Javascript  
+https://github.com/leonardomso/33-js-concepts  
+
+## Practice  
+https://www.codewars.com/  
+https://codecombat.com/  
+https://www.codecademy.com/  
+https://leetcode.com/  
+https://www.hackerrank.com/  
+https://edabit.com/  
+
+## Testing  
+
+## Unit Testing  
+
+## Integration Testing  
+
+## Load Testing  
+
 ## Version Control
 
+## Frontend Frameworks  
 
-Frontend Frameworks  
+## CSS  
+https://evie.undraw.co  
+https://getcssscan.com  
 
-CSS  
-
-CSS Animation  
+## CSS Animation  
 
 SVG Animation  
 http://snapsvg.io/  
@@ -163,182 +267,53 @@ https://medium.com/@aniboaz/animate-svg-4fa7dd00e860
 https://svgontheweb.com/  
 https://jakearchibald.github.io/svgomg/  
 
-SVG Examples  
+## SVG Examples  
 https://www.hongkiat.com/blog/svg-animations/  
 
+## CSS examples  
 
-CSS   
-https://evie.undraw.co  
-https://getcssscan.com
+## Coding for kids  
+https://code.org/  
 
-CSS examples  
-
-# Project Management
-https://trello.com/  
-https://www.wrike.com  
-
-
-
-# Collaboration  
-https://material.io/tools/gallery/  
-https://www.invisionapp.com/feature/freehand  
-https://mural.co/  
-https://www.notion.so/  
-https://realtimeboard.com/  
-https://www.canvasflip.com/visual-inspector/  
-https://witeboard.com  
-
-## Screensharing
-https://www.screentogif.com/  
-http://snappy-app.com/  
-https://teampaper.me/snap/  
-https://getgreenshot.org/  
-https://giphy.com/apps/giphycapture  
-https://getkap.co/  
-https://itunes.apple.com/us/app/lightshot-screenshot/id526298438  
-https://www.thnkdev.com/Screenie/  
-https://www.getcloudapp.com/  
 
 ## Illustrations
 https://undraw.co/illustrations  
 
-
-# Feedback
-https://flawlessapp.io/feedback  
-https://avocode.com/  
-https://zeplin.io/  
-http://utom.design/measure/  
-https://www.invisionapp.com  
-https://specctr.com/cloud/home  
-
-# Testing  
-
 # Miscellaneous  
 
-
-Sandbox
-https://code.visualstudio.com/  
-https://repl.it  
-https://codepen.io/#  
-https://regex101.com/  
-
-Software  
+## Software  
 https://www.scootersoftware.com/    
 https://www.teamviewer.com/en/  
 https://slack.com/  
 https://discordapp.com/  
 
-
-Education  
+## Education  
 https://github.com/kamranahmedse/developer-roadmap  
 https://github.com/adam-golab/react-developer-roadmap  
 https://www.freecodecamp.org/    
 https://developer.mozilla.org/en-US/  
 
-Javascript  
-https://github.com/leonardomso/33-js-concepts  
 
-Practice  
-https://www.codewars.com/  
-https://codecombat.com/  
-https://www.codecademy.com/  
-https://leetcode.com/  
-https://www.hackerrank.com/  
-https://edabit.com/  
-
-Coding for kids  
-https://code.org/  
-
-Forums  
+## Forums  
 https://stackoverflow.com/  
 
-Job Searches  
+## Job Searches  
 
-Resume writing  
+## Resume writing  
 
-Blogs  
+## Blogs  
 
-Podcasts  
+## Podcasts  
 
-Hosting  
+## Hosting  
 https://www.digitalocean.com  
 
-SSL:  
+## SSL:  
 https://letsencrypt.org/  
 
-Unit Testing  
-
-Integration Testing  
-
-Load Testing  
-
-
-# Assets
-
-
-## Stock Images  
-http://www.zoommyapp.com/  
-https://pixabay.com/  
-https://pxhere.com/  
-https://freephotos.cc/  
-https://burst.shopify.com/  
-https://sneakpeekit.com/  
-https://www.pexels.com/  
-https://unsplash.com/  
-https://www.flickr.com/photos/wocintechchat  
-https://sketchsheets.com/  
-
-#
-
-Vector Images  
-https://www.humaaans.com/  
-https://www.freepik.com/free-vectors/illustrations  
-https://interfacer.xyz/  
-https://www.vectorlogo.zone/  
-https://www.vectorstock.com/royalty-free-vectors  
-https://www.freepik.com/free-photos-vectors/royalty-free  
-http://www.thinkstockphotos.ca/royalty-free/illustrations-pictures  
-https://www.stockio.com/free-vectors/  
-https://www.123freevectors.com/  
-https://www.vexels.com/  
-https://www.brandeps.com/  
-https://www.flaticon.com/  
-https://dryicons.com/  
 
 
 
-Logo design  
-http://www.logobook.com/  
-
-# Graphic Design
-https://inkscape.org/  
-https://vectr.com/  
-https://www.photopea.com/  
-https://designer.io/  
-https://www.gimp.org/  
-
-
-Icons  
-
-Website Inspiration  
-https://landub.com/  
-
-
-Wireframing  
-
-User Flow  
-https://www.draw.io/  
-https://docs.google.com/drawings/  
-https://overflow.io/  
-
-Prototyping  
-https://www.sketchapp.com/  
-
-Mockups  
-https://interfacer.xyz/  
-https://psdjunction.com/  
-
-UI Design  
 
 Business  
 
