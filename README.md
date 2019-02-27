@@ -56,7 +56,7 @@ https://specctr.com/cloud/home
 ## Design Information, news and blogs
 https://prototypr.io  
 
-Website Inspiration  
+## Website Inspiration  
 https://landub.com/  
 
 ## User Flow  
@@ -199,6 +199,7 @@ https://hexnaw.com/
 https://michelf.ca/projects/sim-daltonism/  
 https://usecontrast.com/  
 https://contrasteapp.com/  
+https://serfo.com/p/responsive-design-checker/  
 
 ## Animation
 https://www.haiku.ai/  
@@ -258,6 +259,7 @@ https://edabit.com/
 ## CSS  
 https://evie.undraw.co  
 https://getcssscan.com  
+https://www.froala.com/design-blocks  
 
 ## CSS Animation  
 
