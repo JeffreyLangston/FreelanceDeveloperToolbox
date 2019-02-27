@@ -67,15 +67,25 @@ https://learnmobile.design
 https://www.designdots.co  
 https://medium.com/sketch-app-sources/crash-course-in-prototyping-with-principle-for-web-and-ux-ui-designers-workshop-1-2-6c44c4b3a98d? 
 https://github.com/lukejones/designchallenge/tree/site_archive  
+https://material.io/tools  
 
 ## Books
 https://uxtricks.design/products/invision-studio-book/
 https://uxtricks.design  
 https://lawsofux.com  
+https://uxcellence.com/library  
+http://www.designersandbooks.com  
+https://readinglist.design  
+https://mitpress.mit.edu/books/series/design-thinking-design-theory  
+http://uxtools.co/library  
+https://www.lapabooks.com  
+https://airtable.com/universe/expqM3OWZoJkjl7wy/monster-list-of-ux-books  
+https://www.uxpin.com/studio/ebooks  
+https://www.designbetter.co/books  
+
 
 ## UX Portfolio
 https://www.uxfol.io  
-
 
 ## Courses
 https://www.meaningfulmotionui.com
@@ -93,11 +103,11 @@ https://www.invisionapp.com
 https://www.mobile-patterns.com  
 https://www.uisources.com/  
 
-
 ## User Flow  
 https://www.draw.io/  
 https://docs.google.com/drawings/  
 https://overflow.io/  
+https://flowmapp.com  
 
 ## Wireframes
 https://balsamiq.com/  
@@ -183,14 +193,9 @@ https://ccsearch.creativecommons.org
 https://mixkit.co/  
 https://icons8.com/  
 
-## Stock Illusatrations
-https://icons8.com/ouch  
-
-
 ## Stock Videos
 https://mixkit.co/  
 https://coverr.co  
-
 
 ## Vector Images  
 https://www.humaaans.com/  
@@ -207,6 +212,11 @@ https://www.brandeps.com/
 https://www.flaticon.com/  
 https://dryicons.com/  
 https://www.isometriclove.com/  
+https://iconscout.com/icondrop/v2  
+
+## Illustrations
+https://undraw.co/illustrations  
+https://icons8.com/ouch   
 
 ## Color
 https://color.adobe.com  
@@ -220,6 +230,11 @@ https://colourco.de/
 https://uigradients.com  
 https://www.ls.graphics/meshgradients  
 https://gradienthunt.com  
+https://www.huesnap.com  
+https://colorhunt.co  
+https://culrs.com  
+https://hihayk.github.io/wheel  
+https://mycolor.space  
 
 
 ## Font  
@@ -245,10 +260,21 @@ https://thenounproject.com/
 https://www.xicons.co  
 https://roundicons.com  
 https://streamlineicons.com/  
+https://iconsvg.xyz  
+https://www.xicons.co  
+https://roundicons.com/detailed-filled-outline-icons  
+https://www.emojious.com  
+https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/  
+http://www.evericons.com  
+https://tilda.cc/free-icons  
+http://digitalnomadicons.com  
+http://pixelicons.com/free-pack  
+https://goodstuffnononsense.com/  
 
 
 ## Accessibility
 http://pa11y.org/  
+https://a11yproject.com  
 http://www.colorbox.io/  
 https://hexnaw.com/  
 https://michelf.ca/projects/sim-daltonism/  
@@ -279,7 +305,6 @@ https://www.inspectlet.com/
 https://www.hotjar.com/  
 https://userback.io  
 
-
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
 
@@ -288,7 +313,6 @@ https://code.visualstudio.com/
 https://repl.it  
 https://codepen.io/#  
 https://regex101.com/  
-
 
 ## Javascript  
 https://github.com/leonardomso/33-js-concepts  
@@ -320,6 +344,17 @@ https://www.froala.com/design-blocks
 https://css-grid-layout-generator.pw  
 
 ## CSS Animation  
+https://daneden.github.io/animate.css  
+https://popmotion.io/pose/  
+
+## CSS examples  
+
+## Javascript Animation
+https://popmotion.io/pure/  
+https://popmotion.io/stylefire/  
+https://popmotion.io/popcorn/  
+https://popmotion.io/api/framesync/  
+
 
 ## SVG Animation  
 http://snapsvg.io/  
@@ -329,18 +364,14 @@ https://airbnb.design/lottie/
 https://medium.com/@aniboaz/animate-svg-4fa7dd00e860  
 https://svgontheweb.com/  
 https://jakearchibald.github.io/svgomg/  
+https://www.2dimensions.com/
 
 ## SVG Examples  
 https://www.hongkiat.com/blog/svg-animations/  
 
-## CSS examples  
-
 ## Coding for kids  
 https://code.org/  
 
-
-## Illustrations
-https://undraw.co/illustrations  
 
 # Miscellaneous  
 
