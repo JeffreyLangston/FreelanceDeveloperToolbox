@@ -48,6 +48,7 @@ https://getkap.co/
 https://itunes.apple.com/us/app/lightshot-screenshot/id526298438  
 https://www.thnkdev.com/Screenie/  
 https://www.getcloudapp.com/  
+https://screen.guru/  
 
 # Feedback
 https://flawlessapp.io/feedback  
@@ -63,6 +64,7 @@ https://specctr.com/cloud/home
 
 ## Design Information, news and blogs
 https://prototypr.io  
+http://uigoodies.com  
 https://marvelapp.com/workshops  
 https://design-conferences-2019.com
 https://learnmobile.design  
@@ -161,6 +163,16 @@ https://smartmockups.com/
 https://mouseflow.com/  
 https://interfacer.xyz/  
 https://psdjunction.com/  
+https://www.mockupworld.co  
+https://cleanmock.com/designer  
+https://designcode.io/angle  
+http://mockuuups.studio  
+https://themockup.club  
+https://smartmockups.com  
+https://artboard.studio  
+http://threed.io  
+https://placeit.net  
+https://shotsnapp.com  
 
 ## Prototypes
 https://designcode.io/principle  
@@ -226,10 +238,24 @@ https://sketchsheets.com/
 https://ccsearch.creativecommons.org  
 https://mixkit.co/  
 https://icons8.com/  
+https://burst.shopify.com/startup  
+https://visualhunt.com  
+https://librestock.com  
 
 ## Stock Videos
 https://mixkit.co/  
 https://coverr.co  
+https://www.motionplaces.com  
+https://coverr.co  
+https://www.videezy.com/  
+https://www.pond5.com/stock-video-footage  
+https://videos.pexels.com  
+https://pixabay.com/videos  
+https://www.videvo.net/  
+https://www.videoblocks.com  
+https://dissolve.com/footage  
+https://vimeo.com/stock  
+https://elements.envato.com/stock-video  
 
 ## Vector Images  
 https://www.humaaans.com/  
@@ -248,9 +274,23 @@ https://dryicons.com/
 https://www.isometriclove.com/  
 https://iconscout.com/icondrop/v2  
 
+## Backgrounds
+https://www.novapattern.com  
+http://thepatternlibrary.com  
+https://trianglify.io  
+https://www.svgbackgrounds.com  
+https://patterninja.com  
+https://coolbackgrounds.io  
+https://www.toptal.com/designers/subtlepatterns  
+http://www.heropatterns.com  
+
+
 ## Illustrations
 https://undraw.co/illustrations  
 https://icons8.com/ouch   
+https://www.drawkit.io  
+https://www.humaaans.com  
+https://undraw.co  
 
 ## Color
 https://color.adobe.com  
@@ -289,6 +329,8 @@ https://fontface.ninja/
 http://sansforgetica.rmit/  
 https://betterwebtype.com/web-typography-resources  
 https://www.typewolf.com  
+https://picas.now.sh  
+https://v-fonts.com  
 
 ## Icons
 https://www.iconfinder.com/  
