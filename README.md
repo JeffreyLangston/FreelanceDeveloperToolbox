@@ -8,6 +8,14 @@
 
 # Business Development  
 
+## Operations
+https://digitalfreelancer.io  
+https://www.askdomino.com  Invoicing
+
+
+## Social Media
+https://www.canva.com  
+
 ## Freelancing information, news and blogs
 https://freelancing.stackexchange.com/  
 https://community.prototypr.io  
@@ -474,6 +482,10 @@ https://www.scootersoftware.com/
 https://www.teamviewer.com/en/  
 https://slack.com/  
 https://discordapp.com/  
+https://www.dropbox.com  
+https://zapier.com/apps  
+https://ifttt.com/discover  
+
 
 ## Education  
 https://github.com/kamranahmedse/developer-roadmap  
