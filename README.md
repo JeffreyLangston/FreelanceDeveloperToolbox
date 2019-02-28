@@ -103,6 +103,35 @@ https://www.invisionapp.com
 https://codyhouse.co/library  
 https://dribbble.com  
 https://designmodo.com  
+https://www.awwwards.com  
+https://www.behance.net  
+https://www.pages.xyz  
+https://pttrns.com  
+http://www.hixle.co  
+https://klart.io/pixels  
+https://minimalissimo.com  
+https://interfaces.pro  
+https://www.cssdesignawards.com  
+https://www.csswinner.com  
+https://www.landingfolio.com  
+http://collectui.com  
+https://www.waveguide.io  
+https://uijar.com  
+https://thefwa.com  
+https://pageflows.com  
+https://httpster.net  
+https://onepagelove.com  
+https://www.lapa.ninja  
+
+
+## UI Inspiration
+https://mobbin.design
+https://uigarage.net  
+https://www.designerhunt.io  
+https://clarity.design/  
+
+## Email Inspiration
+https://reallygoodemails.com  
 
 ## Mobile Inspiration
 https://www.mobile-patterns.com  
@@ -241,6 +270,12 @@ https://culrs.com
 https://hihayk.github.io/wheel  
 https://mycolor.space  
 
+## Gradients
+https://shapy.app  
+http://www.colinkeany.com/blend/  
+https://cssgradient.io  
+https://www.grabient.com  
+
 
 ## Font  
 https://fonts.google.com/  
@@ -253,6 +288,7 @@ https://fontba.se/
 https://fontface.ninja/  
 http://sansforgetica.rmit/  
 https://betterwebtype.com/web-typography-resources  
+https://www.typewolf.com  
 
 ## Icons
 https://www.iconfinder.com/  
@@ -275,7 +311,17 @@ https://tilda.cc/free-icons
 http://digitalnomadicons.com  
 http://pixelicons.com/free-pack  
 https://goodstuffnononsense.com/  
-
+https://roundicons.com/  
+https://symbolicons.com  
+https://www.zondicons.com  
+http://www.heroicons.com  
+http://www.evericons.com  
+https://fontawesome.com  
+https://www.pixellove.com/free-icons  
+https://icon54.com  
+https://iconscout.com  
+http://animaticons.co  
+https://game-icons.net  
 
 ## Accessibility
 http://pa11y.org/  
@@ -353,6 +399,7 @@ https://daneden.github.io/animate.css
 https://popmotion.io/pose/  
 
 ## CSS examples  
+https://tympanus.net/codrops  
 
 ## Javascript Animation
 https://popmotion.io/pure/  
