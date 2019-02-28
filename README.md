@@ -17,6 +17,8 @@ https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide
 # Project Management
 https://trello.com/  
 https://www.wrike.com  
+https://asana.com/  
+https://monday.com/  
 
 # Client Relations
 
@@ -83,13 +85,13 @@ https://airtable.com/universe/expqM3OWZoJkjl7wy/monster-list-of-ux-books
 https://www.uxpin.com/studio/ebooks  
 https://www.designbetter.co/books  
 
-
 ## UX Portfolio
 https://www.uxfol.io  
 
 ## Courses
 https://www.meaningfulmotionui.com
 https://learnux.io/course/invision-studio  
+https://muz.li  
 
 ## Website Inspiration  
 https://landub.com/  
@@ -98,6 +100,9 @@ https://tilda.cc/
 https://webflow.com/  
 https://cruip.com  
 https://www.invisionapp.com
+https://codyhouse.co/library  
+https://dribbble.com  
+https://designmodo.com  
 
 ## Mobile Inspiration
 https://www.mobile-patterns.com  
