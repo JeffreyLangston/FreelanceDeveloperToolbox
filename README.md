@@ -11,7 +11,25 @@
 ## Operations
 https://digitalfreelancer.io  
 https://www.askdomino.com  Invoicing
+https://app.hellobonsai.com  
+https://toggl.com  time tracking
+https://www.expensify.com  
+https://www.getharvest.com/  
+https://www.and.co/  
 
+## Documents
+https://www.bidsketch.com  
+
+
+## Job Boards
+
+## Freelance work  
+https://wearehirable.com  
+https://dribbble.com/talent  
+https://gigster.com  
+https://x-team.com/  
+https://www.airpair.com/  
+https://www.codementor.io/  
 
 ## Social Media
 https://www.canva.com  
@@ -21,6 +39,8 @@ https://freelancing.stackexchange.com/
 https://community.prototypr.io  
 https://uirecipes.com  
 https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide  
+
+# 
 
 # Project Management
 https://trello.com/  
@@ -132,6 +152,7 @@ https://pageflows.com
 https://httpster.net  
 https://onepagelove.com  
 https://www.lapa.ninja  
+https://codepen.io  
 
 
 ## UI Inspiration
@@ -142,10 +163,14 @@ https://clarity.design/
 
 ## Email Inspiration
 https://reallygoodemails.com  
+https://mixmax.com  
+https://mailchimp.com  
 
 ## Mobile Inspiration
 https://www.mobile-patterns.com  
 https://www.uisources.com/  
+https://pttrns.com  
+
 
 ## User Flow  
 https://www.draw.io/  
@@ -317,6 +342,8 @@ https://colorhunt.co
 https://culrs.com  
 https://hihayk.github.io/wheel  
 https://mycolor.space  
+https://coolors.co 
+
 
 ## Gradients
 https://shapy.app  
@@ -405,6 +432,7 @@ https://www.pendo.io/
 https://www.inspectlet.com/  
 https://www.hotjar.com/  
 https://userback.io  
+https://goodui.org  
 
 # Development
 A list of tools and sites for software development. These are tools I use with a focus on Web Development.   
