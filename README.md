@@ -30,6 +30,8 @@ https://gigster.com
 https://x-team.com/  
 https://www.airpair.com/  
 https://www.codementor.io/  
+https://www.toptal.com/  
+https://www.cloudpeeps.com/  
 
 ## Social Media
 https://www.canva.com  
