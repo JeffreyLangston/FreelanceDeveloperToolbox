@@ -16,12 +16,14 @@ https://toggl.com  time tracking
 https://www.expensify.com  
 https://www.getharvest.com/  
 https://www.and.co/  
+https://www.waveapps.com/  
 
 ## Documents
 https://www.bidsketch.com  
 
 
 ## Job Boards
+https://www.simplyhired.com/  
 
 ## Freelance work  
 https://wearehirable.com  
@@ -32,6 +34,12 @@ https://www.airpair.com/
 https://www.codementor.io/  
 https://www.toptal.com/  
 https://www.cloudpeeps.com/  
+https://www.guru.com/  
+
+## Side Hustles
+https://problogger.com/  
+https://99designs.ca/  
+
 
 ## Social Media
 https://www.canva.com  
@@ -516,18 +524,14 @@ https://www.dropbox.com
 https://zapier.com/apps  
 https://ifttt.com/discover  
 
-
 ## Education  
 https://github.com/kamranahmedse/developer-roadmap  
 https://github.com/adam-golab/react-developer-roadmap  
 https://www.freecodecamp.org/    
 https://developer.mozilla.org/en-US/  
 
-
 ## Forums  
 https://stackoverflow.com/  
-
-## Job Searches  
 
 ## Resume writing  
 
