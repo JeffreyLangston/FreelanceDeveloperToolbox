@@ -124,6 +124,7 @@ https://www.lapabooks.com
 https://airtable.com/universe/expqM3OWZoJkjl7wy/monster-list-of-ux-books  
 https://www.uxpin.com/studio/ebooks  
 https://www.designbetter.co/books  
+https://www.proposify.com/definitive-guide-to-going-freelance/chapter-1  
 
 ## UX Portfolio
 https://www.uxfol.io  
@@ -163,6 +164,7 @@ https://httpster.net
 https://onepagelove.com  
 https://www.lapa.ninja  
 https://codepen.io  
+https://fromupnorth.com/  
 
 
 ## UI Inspiration
@@ -181,12 +183,12 @@ https://www.mobile-patterns.com
 https://www.uisources.com/  
 https://pttrns.com  
 
-
 ## User Flow  
 https://www.draw.io/  
 https://docs.google.com/drawings/  
 https://overflow.io/  
 https://flowmapp.com  
+https://cacoo.com/  
 
 ## Wireframes
 https://balsamiq.com/  
