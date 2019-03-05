@@ -50,8 +50,6 @@ https://community.prototypr.io
 https://uirecipes.com  
 https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide  
 
-# 
-
 # Project Management
 https://trello.com/  
 https://www.wrike.com  
@@ -110,6 +108,8 @@ https://www.designdots.co
 https://medium.com/sketch-app-sources/crash-course-in-prototyping-with-principle-for-web-and-ux-ui-designers-workshop-1-2-6c44c4b3a98d? 
 https://github.com/lukejones/designchallenge/tree/site_archive  
 https://material.io/tools  
+https://alistapart.com/  
+https://deardesignstudent.com/a-designers-code-of-ethics-f4a88aca9e95  
 
 ## Books
 https://uxtricks.design/products/invision-studio-book/
@@ -165,6 +165,17 @@ https://onepagelove.com
 https://www.lapa.ninja  
 https://codepen.io  
 https://fromupnorth.com/  
+https://www.designspiration.net/  
+https://bestwebsite.gallery/  
+https://www.siteinspire.com/  
+https://www.webdesign-inspiration.com/  
+https://www.templatemonster.com/  
+https://thedesigninspiration.com/  
+https://webflow.com/discover/popular#recent  
+https://www.calltoidea.com/  
+https://www.behance.net/featured  
+https://abduzeedo.com/  
+https://cssnectar.com/  
 
 
 ## UI Inspiration
