@@ -8,6 +8,18 @@
 
 # Business Development  
 
+## collapsible markdown?
+
+<details>
+<summary>
+
+# CLICK ME
+</summary>
+<p>
+
+#### yes, even hidden code blocks!
+</details>
+
 ## Operations
 https://digitalfreelancer.io  
 https://www.askdomino.com  Invoicing
