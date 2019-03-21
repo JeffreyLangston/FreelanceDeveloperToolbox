@@ -6,6 +6,8 @@
   width: 50%;" src="https://github.com/JeffreyLangston/FreelanceDeveloperToolbox/blob/master/toolbox.png">
 </p>
 
+This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
+
 # Business Development  
 
 ## collapsible markdown?
