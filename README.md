@@ -10,9 +10,9 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 <details>
 <summary>
-<i>Business Development</i>
+<h2>Business Development</h2>
 </summary>
-## Operations
+  <h3>Operations</h3>
 <p>https://digitalfreelancer.io</p>  
 <p>https://www.askdomino.com  Invoicing</<p>
 <p>https://app.hellobonsai.com</<p>    
