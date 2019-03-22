@@ -8,22 +8,21 @@
 
 This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
 
-# Business Development  
-
-
 <details>
 <summary>
 <i>Business Development</i>
 </summary>
 ## Operations
-<p>https://digitalfreelancer.io  
-https://www.askdomino.com  Invoicing
-https://app.hellobonsai.com  
-https://toggl.com  time tracking
-https://www.expensify.com  
-https://www.getharvest.com/  
-https://www.and.co/  
-https://www.waveapps.com/</p>
+<p>
+  https://digitalfreelancer.io  
+https://www.askdomino.com  Invoicing  
+https://app.hellobonsai.com    
+https://toggl.com  time tracking  
+https://www.expensify.com    
+https://www.getharvest.com/    
+https://www.and.co/    
+https://www.waveapps.com/  
+</p>
 </details>
 
 
