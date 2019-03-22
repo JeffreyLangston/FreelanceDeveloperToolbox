@@ -546,8 +546,13 @@ https://www.hongkiat.com/blog/svg-animations/
 ## Coding for kids  
 https://code.org/  
 
+# DevOps
+
+## CI/CD
+https://circleci.com
 
 # Miscellaneous  
+
 
 ## Software  
 https://www.scootersoftware.com/    
