@@ -10,8 +10,7 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 # Business Development  
 
-<details>
-<h2>Business Development</h2>
+<details><h2>Business Development</h2>
 <summary><h2>Business Development</h2></summary>
 ## Operations
 https://digitalfreelancer.io  
