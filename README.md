@@ -1,9 +1,3 @@
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-
 <h1>Freelance Developer Toolbox</h1>
 <p align="center">
 <img style="  display: block;
@@ -16,7 +10,7 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 <details>
 <summary>
-  <span>Business Development</span>
+  <span style="font-weight:500; font-size:16px;">Business Development</span>
 </summary>
   <h3>Operations</h3>
 <p>https://digitalfreelancer.io</p>  
