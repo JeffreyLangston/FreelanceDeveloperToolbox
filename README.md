@@ -10,18 +10,12 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 # Business Development  
 
-## collapsible markdown?
+# Business Development  
 
 <details>
 <summary>
-
 # CLICK ME
 </summary>
-<p>
-
-#### yes, even hidden code blocks!
-</details>
-
 ## Operations
 https://digitalfreelancer.io  
 https://www.askdomino.com  Invoicing
@@ -31,6 +25,8 @@ https://www.expensify.com
 https://www.getharvest.com/  
 https://www.and.co/  
 https://www.waveapps.com/  
+</details>
+
 
 ## Documents
 https://www.bidsketch.com  
