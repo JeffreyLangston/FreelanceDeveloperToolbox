@@ -8,25 +8,23 @@
 
 This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
 
-<details>
-<summary>
-  <span style="font-weight:600; font-size:24px;">Business Development</span>
-</summary>
-  <h3>Operations</h3>
-<p>https://digitalfreelancer.io</p>  
-<p>https://www.askdomino.com  Invoicing</<p>
-<p>https://app.hellobonsai.com</<p>    
-<p>https://toggl.com  time tracking</<p>  
-<p>https://www.expensify.com</<p>    
-<p>https://www.getharvest.com/</<p>    
-<p>https://www.and.co/</<p>    
-<p>https://www.waveapps.com/</<p>  
-</details>
+[How do I get PTB-3?](#Project-Management)
 
+
+# Business Development
+
+## Operations 
+https://digitalfreelancer.io
+https://www.askdomino.com  Invoicing
+https://app.hellobonsai.com    
+https://toggl.com  time tracking
+https://www.expensify.com>    
+https://www.getharvest.com/
+https://www.and.co/
+https://www.waveapps.com/
 
 ## Documents
 https://www.bidsketch.com  
-
 
 ## Job Boards
 https://www.simplyhired.com/  
@@ -56,7 +54,7 @@ https://community.prototypr.io
 https://uirecipes.com  
 https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide  
 
-# Project Management
+#Project Management
 https://trello.com/  
 https://www.wrike.com  
 https://asana.com/  
