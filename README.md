@@ -9,14 +9,14 @@
 This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
 
 Table of Contents:
-[Marketing](#marketing) - Tools for driving customer awareness and finding clients.
-[Operations](#operations)
-[Project Management](#project-management)
-[Design](#design)
-[Development](#development)
-[DevOps](#devops)
-[Analytics](#analytics)
-[Miscellaneous](#miscellaneous)
+[Marketing](#marketing) - Tools for driving customer awareness and finding clients.  
+[Operations](#operations)  
+[Project Management](#project-management)  
+[Design](#design)  
+[Development](#development)  
+[DevOps](#devops)  
+[Analytics](#analytics)  
+[Miscellaneous](#miscellaneous)  
 
 # Marketing
 
