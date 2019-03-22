@@ -10,17 +10,20 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 # Business Development  
 
+
 <details>
-<summary><p style="display: inline;">Business Development<p></summary>
+<summary>
+<i>Business Development</i>
+</summary>
 ## Operations
-https://digitalfreelancer.io  
+<p>https://digitalfreelancer.io  
 https://www.askdomino.com  Invoicing
 https://app.hellobonsai.com  
 https://toggl.com  time tracking
 https://www.expensify.com  
 https://www.getharvest.com/  
 https://www.and.co/  
-https://www.waveapps.com/  
+https://www.waveapps.com/</p>
 </details>
 
 
