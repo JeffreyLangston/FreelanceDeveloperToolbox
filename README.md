@@ -8,23 +8,17 @@
 
 This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
 
-[How do I get PTB-3?](#project-management)
+Table of Contents:
+[Marketing](#marketing) - Tools for driving customer awareness and finding clients.
+[Operations](#operations)
+[Project Management](#project-management)
+[Design](#design)
+[Development](#development)
+[DevOps](#devops)
+[Analytics](#analytics)
+[Miscellaneous](#miscellaneous)
 
-
-# Business Development
-
-## Operations 
-https://digitalfreelancer.io
-https://www.askdomino.com  Invoicing
-https://app.hellobonsai.com    
-https://toggl.com  time tracking
-https://www.expensify.com>    
-https://www.getharvest.com/
-https://www.and.co/
-https://www.waveapps.com/
-
-## Documents
-https://www.bidsketch.com  
+# Marketing
 
 ## Job Boards
 https://www.simplyhired.com/  
@@ -39,28 +33,35 @@ https://www.codementor.io/
 https://www.toptal.com/  
 https://www.cloudpeeps.com/  
 https://www.guru.com/  
+https://99designs.ca/  
 
 ## Side Hustles
 https://problogger.com/  
-https://99designs.ca/  
-
 
 ## Social Media
 https://www.canva.com  
 
-## Freelancing information, news and blogs
-https://freelancing.stackexchange.com/  
-https://community.prototypr.io  
-https://uirecipes.com  
-https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide  
+# Operations
+
+## Accounting 
+https://digitalfreelancer.io
+https://www.askdomino.com  Invoicing
+https://app.hellobonsai.com    
+https://toggl.com  time tracking
+https://www.expensify.com>    
+https://www.getharvest.com/
+https://www.and.co/
+https://www.waveapps.com/
+
+## Documents
+https://www.bidsketch.com  
+
 
 # Project Management
 https://trello.com/  
 https://www.wrike.com  
 https://asana.com/  
 https://monday.com/  
-
-# Client Relations
 
 ## Client Feedback
 https://www.getdiff.app  
@@ -69,7 +70,7 @@ https://www.getdiff.app
 ## Social Skills  
 https://people.neilon.software/  
 
-# Collaboration  
+## Collaboration  
 https://material.io/tools/gallery/  
 https://www.invisionapp.com/feature/freehand  
 https://mural.co/  
@@ -90,7 +91,7 @@ https://www.thnkdev.com/Screenie/
 https://www.getcloudapp.com/  
 https://screen.guru/  
 
-# Feedback
+## Feedback
 https://flawlessapp.io/feedback  
 https://avocode.com/  
 https://zeplin.io/  
@@ -98,7 +99,6 @@ http://utom.design/measure/
 https://www.invisionapp.com  
 https://specctr.com/cloud/home  
 
-# Marketing
 
 # Design
 
@@ -210,7 +210,7 @@ https://sequencediagram.org/
 ## Wireframes
 https://balsamiq.com/  
 
-# Graphic Design
+## Graphic Design
 https://inkscape.org/  
 https://vectr.com/  
 https://www.photopea.com/  
@@ -449,8 +449,6 @@ https://airbnb.io/lottie/
 https://spiritapp.io/  
 https://tumult.com/hype/  
 
-# Analytics
-
 ## Experience Analysis
 https://amplitude.com/  
 https://heapanalytics.com/  
@@ -541,8 +539,15 @@ https://code.org/
 ## CI/CD
 https://circleci.com
 
+# Analytics
+
 # Miscellaneous  
 
+## Freelancing information, news and blogs
+https://freelancing.stackexchange.com/  
+https://community.prototypr.io  
+https://uirecipes.com  
+https://www.hellobonsai.com/ebooks/bonsai-invision-freelance-guide  
 
 ## Software  
 https://www.scootersoftware.com/    
@@ -573,7 +578,6 @@ https://www.digitalocean.com
 
 ## SSL:  
 https://letsencrypt.org/  
-
 
 ## Completly offtopic  
 https://www.reddit.com/  
