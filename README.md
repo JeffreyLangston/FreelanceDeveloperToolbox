@@ -10,11 +10,9 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 # Business Development  
 
-# Business Development  
-
 <details>
 <summary>
-# CLICK ME
+# Business Development  
 </summary>
 ## Operations
 https://digitalfreelancer.io  
