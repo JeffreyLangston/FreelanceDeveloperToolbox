@@ -13,16 +13,14 @@ This is a collection of tools an resources used for Freelance developerment. All
 <i>Business Development</i>
 </summary>
 ## Operations
-<p>
-  https://digitalfreelancer.io  
-https://www.askdomino.com  Invoicing  
-https://app.hellobonsai.com    
-https://toggl.com  time tracking  
-https://www.expensify.com    
-https://www.getharvest.com/    
-https://www.and.co/    
-https://www.waveapps.com/  
-</p>
+<p>https://digitalfreelancer.io</p>  
+<p>https://www.askdomino.com  Invoicing</<p>
+<p>https://app.hellobonsai.com</<p>    
+<p>https://toggl.com  time tracking</<p>  
+<p>https://www.expensify.com</<p>    
+<p>https://www.getharvest.com/</<p>    
+<p>https://www.and.co/</<p>    
+<p>https://www.waveapps.com/</<p>  
 </details>
 
 
