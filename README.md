@@ -12,7 +12,7 @@ This is a collection of tools an resources used for Freelance developerment. All
 
 <details>
 <summary>
-  <h2> Business Development  </h2>
+<h2>Business Development</h2>
 </summary>
 ## Operations
 https://digitalfreelancer.io  
