@@ -8,7 +8,7 @@
 
 This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
 
-[How do I get PTB-3?](#Project-Management)
+[How do I get PTB-3?](#project-management)
 
 
 # Business Development
