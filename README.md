@@ -11,7 +11,7 @@ This is a collection of tools an resources used for Freelance developerment. All
 # Business Development  
 
 <details>
-<summary><p style="display: block;">Business Development<p></summary>
+<summary><p style="display: inline;">Business Development<p></summary>
 ## Operations
 https://digitalfreelancer.io  
 https://www.askdomino.com  Invoicing
