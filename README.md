@@ -6,9 +6,9 @@
   width: 50%;" src="https://github.com/JeffreyLangston/FreelanceDeveloperToolbox/blob/master/toolbox.png">
 </p>
 
-This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted. 
+This is a collection of tools an resources used for Freelance developerment. All resources are completly free or offer a free tier unless otherwise noted.   
 
-Table of Contents:
+Table of Contents:  
 [Marketing](#marketing) - Tools for driving customer awareness and finding clients.  
 [Operations](#operations)  
 [Project Management](#project-management)  
@@ -35,11 +35,13 @@ https://www.cloudpeeps.com/
 https://www.guru.com/  
 https://99designs.ca/  
 
-## Side Hustles
+## Blogging
 https://problogger.com/  
 
 ## Social Media
 https://www.canva.com  
+
+## Ads
 
 # Operations
 
