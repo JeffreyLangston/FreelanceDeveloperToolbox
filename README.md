@@ -46,14 +46,14 @@ https://www.canva.com
 # Operations
 
 ## Accounting 
-https://digitalfreelancer.io
-https://www.askdomino.com  Invoicing
-https://app.hellobonsai.com    
-https://toggl.com  time tracking
-https://www.expensify.com>    
-https://www.getharvest.com/
-https://www.and.co/
-https://www.waveapps.com/
+https://digitalfreelancer.io  
+https://www.askdomino.com  Invoicing  
+https://app.hellobonsai.com     
+https://toggl.com  time tracking  
+https://www.expensify.com>      
+https://www.getharvest.com/  
+https://www.and.co/  
+https://www.waveapps.com/  
 
 ## Documents
 https://www.bidsketch.com  
